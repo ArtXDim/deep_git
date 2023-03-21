@@ -19,3 +19,5 @@ a = int(input("Введите число A: "))
 b = int(input("Введите число B: "))
 
 print(summa(a, b))
+
+
