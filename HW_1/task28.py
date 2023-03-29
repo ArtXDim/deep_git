@@ -7,8 +7,8 @@
 # 2 2
 #     4 
 
-def summa(a, b):
-    if b == 0:
+def summa(a, b): 
+    if b == 0:  # add comment 1
         return a
     elif a == 0:
         return b
@@ -20,4 +20,5 @@ b = int(input("Введите число B: "))
 
 print(summa(a, b))
 
+print("Решено")
 
